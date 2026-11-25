@@ -66,7 +66,7 @@
 
 AI PhD offers AI education through a series of beginner-friendly courses and learning paths. It provides live AI‑instructed lessons, a single‑payment model, and a growing catalog of topics covering prompt engineering, AI agents, and automation. The platform aims to make AI accessible without subscriptions, delivering up‑to‑date content and hands‑on projects for learners at any level.
 
-**Areas:** Education · AI · Courses · Learning · Platform
+**Areas:** Education · Artificial Intelligence · Courses · Learning · Platform
 
 ## AI PhD on APIs.io
 
@@ -84,8 +84,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai Phd Com Domain Security](https://apis.io/security/ai-phd-com/ai-phd-com-domain-security/)
-- [Ai Phd Com Vulnerability Disclosure](https://apis.io/security/ai-phd-com/ai-phd-com-vulnerability-disclosure/)
+- [AI PhD Domain Security](https://apis.io/security/ai-phd-com/ai-phd-com-domain-security/)
+- [AI PhD Vulnerability Disclosure](https://apis.io/security/ai-phd-com/ai-phd-com-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -98,18 +98,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 14.1** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 17.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 75.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 26.3 |
+| Operational transparency | 23.8 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 18.2** — agent-aware
+**Agent readiness 17.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -134,6 +134,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 23.6** — Education & Research
 
